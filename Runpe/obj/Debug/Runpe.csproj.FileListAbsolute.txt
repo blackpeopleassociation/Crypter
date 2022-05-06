@@ -1,0 +1,6 @@
+C:\Users\sniper\Desktop\Crypter\MyCrypter\Runpe\bin\Debug\Runpe.dll
+C:\Users\sniper\Desktop\Crypter\MyCrypter\Runpe\bin\Debug\Runpe.pdb
+C:\Users\sniper\Desktop\Crypter\MyCrypter\Runpe\obj\Debug\Runpe.csprojAssemblyReference.cache
+C:\Users\sniper\Desktop\Crypter\MyCrypter\Runpe\obj\Debug\Runpe.csproj.CoreCompileInputs.cache
+C:\Users\sniper\Desktop\Crypter\MyCrypter\Runpe\obj\Debug\Runpe.dll
+C:\Users\sniper\Desktop\Crypter\MyCrypter\Runpe\obj\Debug\Runpe.pdb
